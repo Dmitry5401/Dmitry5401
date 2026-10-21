@@ -34,13 +34,11 @@
 
 [![diplom_progect](https://github-readme-stats.vercel.app/api/pin/?username=Dmitry5401&repo=diplom_progect&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD&hide_border=true)](https://github.com/Dmitry5401/diplom_progect)
 
-**UI: сайт компании Modsen**
-
-[![qa_guru_course_ui](https://github-readme-stats.vercel.app/api/pin/?username=Dmitry5401&repo=qa_guru_course_ui&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD&hide_border=true)](https://github.com/Dmitry5401/qa_guru_course_ui)
-
-**Mobile: приложение Wikipedia**
+**Диплом: Mobile приложение Wikipedia**
 
 [![qa_guru_course_mobile](https://github-readme-stats.vercel.app/api/pin/?username=Dmitry5401&repo=qa_guru_course_mobile&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD&hide_border=true)](https://github.com/Dmitry5401/qa_guru_course_mobile)
+
+
 
 Ещё на курсе: [API книжного клуба](https://github.com/Dmitry5401/qa_guru_book-club-api) и [учёт трат на PostgreSQL](https://github.com/Dmitry5401/qa_guru_keeper).
 
